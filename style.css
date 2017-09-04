@@ -1,0 +1,177 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  width: 100%;
+  margin: 0;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  padding-left: 0;
+  width: 550px;
+}
+
+ol {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 0;
+  width: 700px;
+}
+
+p {
+  display: flex;
+  justify-content: center;
+  width: 947px;
+  margin-left: 162px;
+}
+
+strong {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+a:hover {
+  color: #f6bd60;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+header {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  color: #f6bd60;
+  border-bottom: 1px dotted #d6d6d6;
+  border-width: thick;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+footer {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  color: #f6bd60;
+  border-top: 1px dotted #d6d6d6;
+  border-width: thick;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 30px;
+}
+
+.name {
+  margin-bottom: 0;
+}
+
+.webDev {
+  margin-top: 0;
+}
+
+.languagesWrapper {
+  padding-top: 110px;
+  padding-bottom: 50px;
+  border-bottom: 1px solid #d6d6d6;
+  background-color: #333333;
+  padding-bottom: 112px;
+}
+
+.aboutWrapper {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-bottom: 75px;
+}
+
+.locations {
+  display: flex;
+  justify-content: center;
+}
+
+.expertise {
+  display: flex;
+  justify-content: center;
+  color: #f6bd60;
+  font-size: 40px;
+  border-top: 1px dotted white;
+  border-width: thick;
+  width: 800px;
+  margin-left: 232px;
+}
+
+.languages {
+  display: flex;
+  justify-content: center;
+  color: white;
+  border-bottom: 1px dotted white;
+  border-width: thick;
+  width: 800px;
+  margin-left: 232px;
+  padding-bottom: 50px;
+}
+
+.wrapper {
+  padding-top: 20px;
+  padding-bottom: 50px;
+  border-bottom: 1px solid #d6d6d6;
+  padding-bottom: 80px;
+}
+
+.bodyWrapper {
+  width: 1000px;
+  background-color: white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
+  font-size: 40px;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
+  font-size: 30px;
+}
+
+.mainHeader {
+  display: flex;
+}
+
+.about {
+  display: flex;
+  justify-content: center;
+  color: #f6bd60;
+  padding-top: 10px;
+  font-size: 60px;
+}
+
+.aboutMe {
+  border-top: 1px solid #d6d6d6;
+  padding-top: 20px;
+  margin-top: 0px;
+}
+
+.navBar {
+  display: flex;
+  justify-content: space-around;
+  width: 600px;
+  margin-left: 321px;
+}
+
+.email {
+  margin-right: 60px;
+}
